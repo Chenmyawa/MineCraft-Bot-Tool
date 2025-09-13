@@ -1,0 +1,23 @@
+{
+  "name": "minecraft-bot-tool",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "Chenmy",
+  "license": "MIT",
+  "description": "A MineCraft Server Bot Tool",
+  "homepage": "https://github.com/Chenmyawa/MineCraft-Bot-Tool",
+  "website": "https://www.chenmyawa.top",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "commander": "^14.0.0",
+    "express": "^5.1.0",
+    "mineflayer": "^4.29.0",
+    "prismarine-windows": "^2.9.0",
+    "readline-sync": "^1.4.10",
+    "socket.io": "^4.8.1"
+  }
+}
